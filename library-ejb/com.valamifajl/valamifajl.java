@@ -8,5 +8,5 @@
  * @author gabor
  */
 public class valamifajl {
-    
+    private int valami;
 }
